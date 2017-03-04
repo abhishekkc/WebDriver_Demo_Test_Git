@@ -14,6 +14,5 @@ public class webPage {
 		 
 		    driver.get(URL);
 		    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		 
-		    }
+		     }
 }
